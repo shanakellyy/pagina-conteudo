@@ -1,0 +1,37 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  font-size: 1em;
+}
+
+body {
+  font-family: "Open Sans", Arial, Helvetica, sans-serif;
+}
+
+header {
+  color: white;
+  background: rgb(51, 51, 51);
+  font-weight: 700;
+  padding: 0.5em;
+  font-size: 1.5em;
+  border-bottom: 5px solid rgb(253, 138, 36);
+  text-align: center;
+}
+
+main {
+  padding: 2em;
+  margin: auto;
+  width: 50%;
+  color: #111111;
+}
+
+h2 {
+  font-size: 3.5em;
+  border: 5px;
+  margin: 0.5em 0;
+}
+
+p {
+}
